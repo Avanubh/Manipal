@@ -3,7 +3,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="Axis_TestNGG.soft_Assertion"/>
+      <class name="DataDriven.ReadExcel"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
